@@ -11,3 +11,11 @@
   background: linear-gradient(to top, transparent 0%, rgba(0, 0, 0, 0.3) 50%);
   /* Add any other custom styles you need */
 }
+
+.register {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 150%),
+    url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dfmhjc3-a930a862-5944-4bd2-b4e1-54ad4bce54c2.jpg/v1/fill/w_1192,h_670,q_70,strp/2023_movies_wallpaper_by_thekingblader995_dfmhjc3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGZtaGpjMy1hOTMwYTg2Mi01OTQ0LTRiZDItYjRlMS01NGFkNGJjZTU0YzIuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.eYRv-mk28hUwszCilwKfrGn3jZZsGmhK5xnT1KhElkc");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
